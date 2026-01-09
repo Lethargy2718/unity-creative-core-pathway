@@ -2012,8 +2012,8 @@
     "m_ObjectId": "64adaa8fce5a4efbaed518217d348897",
     "m_Title": "Changing Offset Over Time",
     "m_Position": {
-        "x": -1886.8570556640625,
-        "y": -629.7142944335938
+        "x": -1886.85693359375,
+        "y": -629.7144165039063
     }
 }
 
@@ -2081,8 +2081,8 @@
     "m_ObjectId": "71e1d6e5e7c74a8490ba5cf426d77bd4",
     "m_Title": "Setting Intensity and Colour",
     "m_Position": {
-        "x": -55.99989318847656,
-        "y": -613.7142944335938
+        "x": -55.999755859375,
+        "y": -613.7144165039063
     }
 }
 
@@ -2134,8 +2134,8 @@
     "m_ObjectId": "7a015a014e1645e7a2743bd8cbd40409",
     "m_Title": "Applying Offset to Gradients",
     "m_Position": {
-        "x": -1020.0,
-        "y": -628.5713500976563
+        "x": -1019.9998779296875,
+        "y": -628.571533203125
     }
 }
 
